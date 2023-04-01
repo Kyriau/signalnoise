@@ -1,2 +1,5 @@
 # IDEA files
 /.idea/*.*
+
+# generated java files
+*.class
